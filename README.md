@@ -19,7 +19,6 @@ Whether you love dad jokes, cheesy punchlines, or cringe-worthy humor, this site
 corny-jokes/
 │── index.html
 │── style.css
-│── script.js
 │── assets/
 └── README.md
 ```
